@@ -1,1 +1,1 @@
-# CompTIA-Security-Plus-Persian
+# CompTIA-Server-Plus-Persian
